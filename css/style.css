@@ -35,7 +35,7 @@ main{
 }
 
 main article{
-  background-image: url('images/drawers.jpg');
+  background-image: url('/Reto2-ComponenteArticulo/images/drawers.jpg');
   background-size: 100%;
   padding: 220px 0 0;
   border-radius: 10px;
